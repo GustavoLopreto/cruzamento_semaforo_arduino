@@ -1,4 +1,4 @@
-# # 🚦 Controle de Cruzamento com Semáforos e Pedestres
+#  🚦 Controle de Cruzamento com Semáforos e Pedestres
 
 ## Sobre o Projeto
 Este projeto foi desenvolvido utilizando **Arduino** para simular o controle de tráfego em um cruzamento urbano. Ele gerencia o tempo e a sincronia entre dois semáforos de veículos independentes e um semáforo exclusivo para pedestres. 
